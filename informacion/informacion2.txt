@@ -1,0 +1,4 @@
+Hola 
+
+python es un lenguaje interpretado
+java es un lenguaje compilado
